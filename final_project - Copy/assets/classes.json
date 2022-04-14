@@ -1,0 +1,11 @@
+[{"id":1,"name":"Hero","level":7,"vigor":14,"mind":9,"endurance":12,"strength":16,"dexterity":9,"intelligence":7,"faith":8,"arcane":11},
+{"id":2,"name":"Warrior","level":8,"vigor":11,"mind":12,"endurance":11,"strength":10,"dexterity":16,"intelligence":10,"faith":8,"arcane":9},
+{"id":3,"name":"Astrologer","level":6,"vigor":9,"mind":15,"endurance":9,"strength":8,"dexterity":12,"intelligence":16,"faith":7,"arcane":9},
+{"id":4,"name":"Bandit","level":5,"vigor":10,"mind":11,"endurance":10,"strength":9,"dexterity":13,"intelligence":9,"faith":8,"arcane":14},
+{"id":5,"name":"Prisoner. Vagabond","level":9,"vigor":11,"mind":12,"endurance":11,"strength":11,"dexterity":14,"intelligence":14,"faith":6,"arcane":9},
+{"id":6,"name":"Confessor","level":9,"vigor":15,"mind":10,"endurance":11,"strength":14,"dexterity":13,"intelligence":9,"faith":9,"arcane":7},
+{"id":7,"name":"Wretch","level":10,"vigor":10,"mind":13,"endurance":10,"strength":12,"dexterity":12,"intelligence":9,"faith":14,"arcane":9},
+{"id":8,"name":"Prophet","level":1,"vigor":10,"mind":10,"endurance":10,"strength":10,"dexterity":10,"intelligence":10,"faith":10,"arcane":10},
+{"id":9,"name":"Samurai","level":7,"vigor":10,"mind":14,"endurance":8,"strength":11,"dexterity":10,"intelligence":7,"faith":16,"arcane":10},
+{"id":10,"name":"Hero","level":9,"vigor":12,"mind":11,"endurance":13,"strength":12,"dexterity":15,"intelligence":9,"faith":8,"arcane":8},
+{"id":11,"name":"Warrior","level":7,"vigor":14,"mind":9,"endurance":12,"strength":16,"dexterity":9,"intelligence":7,"faith":8,"arcane":11}]
